@@ -21,6 +21,3 @@ alert(`Login realizado com sucesso! Bem-vindo, ${nome}.`)
     alert(`Nome ou senha incorretos. Tente novamente.`)
 }
 }
-
-
- 
